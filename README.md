@@ -1,2 +1,2 @@
 # G4B1_DSA_GradedCodingAssignment2
-G4B1_DSA_GradedCodingAssignment2 is available.
+G4B1_DSA_GradedCodingAssignment2 is available here.
